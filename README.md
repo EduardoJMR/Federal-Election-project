@@ -58,8 +58,9 @@ fec["party"]
 
 ##### Once we have the candidates sorted by their parties we can start applying for some studies like what amount of money each contributor has donated to their party by the employer.
 
-
-
+```python
+fec= fec[fec["contb_receipt_amt"] > 0]
+```
 
 
 
