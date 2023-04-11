@@ -23,7 +23,7 @@ fec.info()
 
 ![image](https://github.com/EduardoJMR/Federal-Election-project/blob/master/images/Capture.JPG)
 
-## Total donations by party for top occupations?.
+## Total donations by party for top occupations?
 
 ### Transforming the data
 
